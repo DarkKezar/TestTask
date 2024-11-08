@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskFromMindBox", "TestTaskFromMindBox\TestTaskFromMindBox.csproj", "{A88670C6-5D64-43F4-859C-8DFCAD56EA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DK.ShapeLib", "DK.ShapeLib\DK.ShapeLib.csproj", "{5EAB67A1-D291-4687-A8B6-12D329325373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DK.ShapeLib.Tests", "DK.ShapeLib.Tests\DK.ShapeLib.Tests.csproj", "{30587E65-FE79-47CD-AB34-A364F9F98E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88670C6-5D64-43F4-859C-8DFCAD56EA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88670C6-5D64-43F4-859C-8DFCAD56EA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88670C6-5D64-43F4-859C-8DFCAD56EA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88670C6-5D64-43F4-859C-8DFCAD56EA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAB67A1-D291-4687-A8B6-12D329325373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAB67A1-D291-4687-A8B6-12D329325373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAB67A1-D291-4687-A8B6-12D329325373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAB67A1-D291-4687-A8B6-12D329325373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30587E65-FE79-47CD-AB34-A364F9F98E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30587E65-FE79-47CD-AB34-A364F9F98E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30587E65-FE79-47CD-AB34-A364F9F98E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30587E65-FE79-47CD-AB34-A364F9F98E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
